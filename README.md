@@ -19,8 +19,11 @@ Features:
 > Only tested on ULUS10025 and ULES00125
 > 
 > Installation:
-> * Using your preferred .iso editor (e.g. UMDGen), simply drag and drop the "PSP_GAME" folder into the game directory, then save a new .iso file.
-> 
+>
+> (Enviro.dat files)
+> * Using your preferred .iso editor (e.g. UMDGen), open your Burnout Legends .iso file and simply drag and drop the "PSP_GAME" folder into the game directory (where "UMD_DATA.BIN" is located), then save a new .iso file.
+>
+> (Skybox texutres)
 > * In the PPSSPP directory, drag and drop the folder "ULUS10025" or "ULES00125" (check your game version) into "memstick/PSP/TEXTURES".
 > 
 > In PPSSPP:
@@ -35,6 +38,10 @@ Features:
 > ![](screenshots/Color%20On.png)
 > 
 > This is a matter of preference but the intended look of the mod has this filter applied.
+>
+> Troubleshooting:
+> * Check if Waterfront and the Airport tracks do not share the same skybox.
+> * If they do share the same skybox, redo the installation for the enviro.dat files.
 
 ### Screenshots
 USA
