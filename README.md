@@ -1,5 +1,5 @@
 # Burnout-Legends-Refined-Visuals
-by TheGoat07s
+by ZenoSevens (TheGoat07s)
 
 Perhaps the intended look for Burnout Legends
 
